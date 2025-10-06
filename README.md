@@ -1,2 +1,1 @@
-# Stock_Manager
-The Stock Manager Application is made for the managment of staff , payments and stocks of a bussiness. This is a complete Solution for small businesses...
+"# Stock-Manager." 
